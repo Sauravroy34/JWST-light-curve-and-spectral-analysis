@@ -1,4 +1,4 @@
-# JWST-light-curve-and-spectral-analysis
+# JWST-light-curve-and-Planet-spectra
 JWST light curve, poission regressor model and WASP39b planet spectra 
 ## PLanet(WASP 39B) sepectra
 ![output](https://github.com/user-attachments/assets/6d10d77e-43a4-410b-a5d1-a18c58d9f869)
