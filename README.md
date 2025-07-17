@@ -22,7 +22,8 @@ When a planet transits, some starlight passes through its atmosphere. Different 
 
 ### Transmission Spectrum of WASP-39b
 
-![Transmission Spectrum](https://github.com/user-attachments/assets/b6178a43-ae39-41d8-9c1d-05b857406a28)
+![Transmission Spectrum](https://github.com/user-attachments/assets/66baeb9c-f64f-4c27-a1e9-f8a0d4cc22d4)
+
 
 The spectrum above shows how WASP-39b’s atmosphere affects light at different wavelengths.
 
